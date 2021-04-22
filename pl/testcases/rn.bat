@@ -1,0 +1,1 @@
+java -classpath ..\..\bl\dist\*;..\dist\*;. %1

@@ -1,0 +1,1 @@
+javac -classpath ..\..\bl\dist\*;..\dist\*;. FileTestcase.java
